@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sistema de Compras</string>
+    <string name="titulo">Escolha os seus produtos:</string>
+    <string name="produto1">Arroz 1 Kg (R$ 5,99)</string>
+    <string name="produto2">Leite Longa Vida (R$ 3,68)</string>
+    <string name="produto3">Carne Friboi (R$ 26,35)</string>
+    <string name="produto4">Feijão Carioquinha 1 Kg (R$ 4,76)</string>
+    <string name="produto5">Refrigerante Coca-Cola 2L (R$ 7,98)</string>
+    <string name="btnCalculo">Calcular Total da Compra</string>
+    <string name="textValorTotal">Valor Total:</string>
+</resources>
